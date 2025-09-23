@@ -150,9 +150,9 @@ db.create_all()
 4. Test thoroughly
 5. Submit a pull request
 
-## License
+<!-- ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License. -->
 
 ## Author
 **Venkata Mastan Mudigonda**
